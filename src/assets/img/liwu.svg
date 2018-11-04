@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="287px" height="307px" viewBox="0 0 287 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>liwu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="142 0 142 104 0 205 0 101"></polygon>
+        <polygon id="path-3" points="0 0 142 101 142 205 0 104"></polygon>
+        <path d="M144.421356,42 L286.542332,142.789962 C287.443326,143.428933 287.655737,144.677321 287.016767,145.578315 C286.886466,145.762048 286.726065,145.92245 286.542332,146.05275 L144.421356,246.842712 L2.30038079,146.05275 C1.39938681,145.413779 1.18697503,144.165391 1.8259458,143.264397 C1.95624627,143.080664 2.11664791,142.920263 2.30038079,142.789962 L144.421356,42 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="礼盒" transform="translate(-1.000000, -42.000000)">
+            <polygon id="Rectangle-7-Copy-2" fill="#9F003F" fill-rule="nonzero" transform="translate(144.147182, 247.421356) rotate(45.000000) translate(-144.147182, -247.421356) " points="69.8446091 173.272226 244.443983 147.124555 215.890743 319.31836 43.8503811 347.718157"></polygon>
+            <polygon id="右后" fill="#EB015E" fill-rule="nonzero" points="144 42 286 143 286 247 144 146"></polygon>
+            <g id="右" transform="translate(144.000000, 144.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-8-Copy" fill="#BE034D" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <polygon id="Rectangle-10" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="68.7 51 72.2 51 72.2 166 68.7 166"></polygon>
+            </g>
+            <polygon id="左后" fill="#BE034D" fill-rule="nonzero" transform="translate(73.000000, 144.500000) scale(-1, 1) translate(-73.000000, -144.500000) " points="2 42 144 143 144 247 2 146"></polygon>
+            <g id="左" transform="translate(2.000000, 144.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Rectangle-8" fill="#EB015E" fill-rule="nonzero" xlink:href="#path-3"></use>
+                <polygon id="Rectangle-10-Copy" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-4)" points="68.3 50 71.8 50 71.8 166 68.3 166"></polygon>
+            </g>
+            <g id="盖子">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Rectangle-7-Copy-2" fill="#D90157" fill-rule="nonzero" xlink:href="#path-5"></use>
+                <polygon id="Rectangle-9" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)" points="12 236.694367 244.187877 68 246.539018 71.236068 14.351141 239.930435"></polygon>
+                <polygon id="Rectangle-9-Copy" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)" points="258.539018 226.694367 256.187877 229.930435 24 61.236068 26.351141 58"></polygon>
+                <polygon id="Triangle-3" stroke="#FFFFFF" stroke-width="4" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-6)" points="119 103 142 145 96 145"></polygon>
+                <polygon id="Triangle-3-Copy" stroke="#FFFFFF" stroke-width="4" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-6)" points="166 103 189 145 143 145"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
